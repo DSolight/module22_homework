@@ -1,0 +1,10 @@
+.flags {
+    display: flex;
+    justify-content: space-around;
+}
+
+.item {
+    border: 1px solid black;
+    height: 120px;
+    width: 180px;
+}
